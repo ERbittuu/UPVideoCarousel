@@ -1,0 +1,6 @@
+framework module UPVideoCarousel {
+  umbrella header "UPVideoCarousel-umbrella.h"
+
+  export *
+  module * { export * }
+}

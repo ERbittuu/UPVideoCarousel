@@ -1,0 +1,23 @@
+PODS:
+  - ASPVideoPlayer (6.1.1)
+  - UPVideoCarousel (0.1.0):
+    - ASPVideoPlayer
+
+DEPENDENCIES:
+  - UPVideoCarousel (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - ASPVideoPlayer
+
+EXTERNAL SOURCES:
+  UPVideoCarousel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASPVideoPlayer: 7a92fafe62d7b0615520f2ec33a9fbd05483a999
+  UPVideoCarousel: fd4b50443eafa9d86c792ebc842944b7b2e3e0ea
+
+PODFILE CHECKSUM: 2511271c8ff9aa1526cf952106b01f8db8f0f111
+
+COCOAPODS: 1.9.3

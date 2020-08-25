@@ -1,0 +1,6 @@
+framework module Pods_UPVideoCarousel_Example {
+  umbrella header "Pods-UPVideoCarousel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

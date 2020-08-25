@@ -1,0 +1,27 @@
+{
+  "name": "UPVideoCarousel",
+  "version": "0.1.0",
+  "summary": "A short description of UPVideoCarousel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/erbittuu/UPVideoCarousel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "erbittuu": "utsav.patel@solutionanalysts.com"
+  },
+  "source": {
+    "git": "https://github.com/erbittuu/UPVideoCarousel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "11.3"
+  },
+  "source_files": "UPVideoCarousel/Classes/**/*",
+  "dependencies": {
+    "ASPVideoPlayer": [
+
+    ]
+  }
+}
